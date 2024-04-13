@@ -24,8 +24,6 @@ main{
 .home-image{
     display: flex;
     flex-wrap: wrap;
-}
-.home-card{
     justify-content: center;
     text-align: center;
     color: #3730a3;
